@@ -1,7 +1,7 @@
 # SCT_DA_2
 🧹 Data Cleaning and Preparation using Python & Pandas
 
- 📌 Project Overview
+ 📌 Project 
 
 This project focuses on cleaning and preparing the Global Superstore Dataset using Python and the Pandas library.
 The main goal of this project is to make raw data clean, organized, and ready for analysis by:
@@ -85,7 +85,7 @@ By completing this project, the following skills were learned:
 
  🎯 Conclusion
 
-This project demonstrates the complete process of **Data Cleaning and Preparation using Python and Pandas.
+This project demonstrates the complete process of Data Cleaning and Preparation using Python and Pandas.
 After cleaning the dataset, the data becomes more accurate, consistent, and ready for:
 - Data Analysis
 - Data Visualization
